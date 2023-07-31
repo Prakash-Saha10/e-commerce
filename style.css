@@ -1,22 +1,4 @@
-.row{
-    padding-bottom: 5px;
-    padding-top: 5px;
-    padding-left: 5px;
-    padding-right: 5px;
 
-}
-.col-md-8{
-    padding-bottom: 5px;
-    padding-top: 5px;
-    padding-left: 5px;
-    padding-right: 5px;
-}
-.col-md-4{
-    padding-bottom: 5px;
-    padding-top: 5px;
-    padding-left: 5px;
-    padding-right: 5px;
-}
 .orange-bg{
     background-color: #fceae8;
     border-radius: 10px;
@@ -87,10 +69,41 @@ text-decoration: double;
 .shoes{
     margin-top: 5%;
 }
-.bags{
+.backpack{
 
     margin-top: 5%;
 }
-.h-100{
-    height: 25%;
+
+#SUBSCRIBE{
+    height:250px ;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;   
+block-size: 5%;
+
+}
+#SUBSCRIBE p{
+    text-align: center;
+    color: navy;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#SUBSCRIBE h2{
+    text-align: center;
+    margin-bottom: 5%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-size:medium;
+    color: darkslategrey;
+}
+.submit{
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 5px;
+    background-color:darkred;
+    background-position:center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aliceblue;
+    animation: both;
+
+}
+.form-control{
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
